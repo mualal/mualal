@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src "https://readme-typing-svg.herokuapp.com/?lines=Nice+to+meet+you!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
@@ -12,4 +12,4 @@ Hello! My name is Alexander Muravtsev and I am currently a graduate student in M
 My research interests include mathematical modeling of physics processes, numerical algorithms for complex PDE systems, computer vision, and high performance computing.
 I'm also interested in using Machine Learning techniques to optimization problems.
 
-Besides coding, I also enjoys presenting and demoing Python.
+Besides coding, I also enjoy presenting and demoing Python.
