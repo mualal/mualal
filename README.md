@@ -13,3 +13,11 @@ My research interests include mathematical modeling of physics processes, numeri
 I'm also interested in using Machine Learning techniques to optimization problems.
 
 Besides coding, I also enjoy presenting and demoing Python.
+
+[![mualal's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mualal)](https://leetcode.com/mualal/)
+
+[GitLab Account](https://gitlab.com/mualal)
+
+[LeetCode Account](https://leetcode.com/mualal/)
+
+[Kaggle Account](https://www.kaggle.com/alexandermuravtsev)
