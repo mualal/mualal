@@ -18,6 +18,8 @@ Besides coding, I also enjoy presenting and demoing Python.
 
 [GitLab Account](https://gitlab.com/mualal)
 
+[Stepik Account](https://stepik.org/users/35858919/profile)
+
 [LeetCode Account](https://leetcode.com/mualal/)
 
 [Kaggle Account](https://www.kaggle.com/alexandermuravtsev)
